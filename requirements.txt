@@ -1,0 +1,17 @@
+# Core dependencies (will work without audio)
+pyautogui==0.9.54
+pynput==1.7.6
+psutil==5.9.5
+pyinstaller==6.15.0
+
+# Speech recognition (optional - may have compatibility issues)
+# SpeechRecognition==3.10.0
+# pyaudio==0.2.11
+
+# Voice feedback (optional)
+# pyttsx3==2.90
+# gtts==2.3.2
+# pygame==2.5.2
+
+# Advanced features (optional)
+# openai-whisper==20231117 

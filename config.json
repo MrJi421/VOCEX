@@ -1,0 +1,33 @@
+{
+    "wake_word": "xizo",
+    "speech_timeout": 1,
+    "phrase_time_limit": 5,
+    "ambient_noise_duration": 1,
+    "supported_programs": {
+        "notepad": "notepad.exe",
+        "word": "winword.exe",
+        "excel": "excel.exe",
+        "chrome": "chrome.exe",
+        "firefox": "firefox.exe",
+        "edge": "msedge.exe",
+        "calculator": "calc.exe",
+        "paint": "mspaint.exe",
+        "explorer": "explorer.exe",
+        "control panel": "control.exe",
+        "task manager": "taskmgr.exe",
+        "spotify": "spotify.exe",
+        "discord": "discord.exe",
+        "steam": "steam.exe"
+    },
+    "commands": {
+        "open": ["open", "launch", "start"],
+        "write": ["write", "type"],
+        "search": ["search", "google", "find"],
+        "close": ["close", "exit", "quit"]
+    },
+    "ui_settings": {
+        "window_width": 400,
+        "window_height": 300,
+        "theme": "clam"
+    }
+} 
